@@ -1,0 +1,23 @@
+[
+	{
+		"Id":1,
+		"VendorId":2,
+		"PickupTime":"2020-02-07T01:02:00.000Z",
+		"CabLicense":"T432440C",
+		"DriverLicense":467227,
+		"PickupLocationId":161,
+		"PassengerCount":1,
+		"RateCodeId":1
+	},
+
+	{
+		"Id":2,
+		"VendorId":2,
+		"PickupTime":"2020-02-07T01:03:00.000Z",
+		"CabLicense":"T432440C",
+		"DriverLicense":467227,
+		"PickupLocationId":161,
+		"PassengerCount":1,
+		"RateCodeId":1
+	}
+]

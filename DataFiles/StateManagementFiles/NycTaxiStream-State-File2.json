@@ -1,0 +1,34 @@
+[
+	{
+		"Id":3,
+		"VendorId":2,
+		"PickupTime":"2020-02-07T01:14:00.000Z",
+		"CabLicense":"T422240C",
+		"DriverLicense":467227,
+		"PickupLocationId":120,
+		"PassengerCount":1,
+		"RateCodeId":1
+	},
+
+	{
+		"Id":4,
+		"VendorId":2,
+		"PickupTime":"2020-02-07T01:06:00.000Z",
+		"CabLicense":"T251430C",
+		"DriverLicense":467227,
+		"PickupLocationId":148,
+		"PassengerCount":4,
+		"RateCodeId":1
+	},
+
+	{
+		"Id":5,
+		"VendorId":2,
+		"PickupTime":"2020-02-07T01:19:00.000Z",
+		"CabLicense":"T211430C",
+		"DriverLicense":461127,
+		"PickupLocationId":167,
+		"PassengerCount":1,
+		"RateCodeId":1
+	}
+]
